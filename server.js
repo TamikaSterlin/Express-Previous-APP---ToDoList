@@ -10,9 +10,6 @@ const PORT = process.env.PORT || 3030
 
 var db, collection;
 
-// const url = "mongodb+srv://tamika:three@cluster0.x4j46.mongodb.net/todo?retryWrites=true&w=majority"
-// const dbName = "todo";
-
 app.listen(PORT, () => {
   MongoClient.connect(url, {
     useNewUrlParser: true,
