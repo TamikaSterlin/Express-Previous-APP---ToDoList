@@ -1,6 +1,6 @@
 # To Do List - Express
 
-- I created an application where you can create a To Do list where you can mark items complete, trash completed items or delete everything on your list and keep track of items added to your list. Great way to stay organized :)
+- I created a To Do List app where you can mark items complete, trash completed items or delete everything on your list and keep track of items added to your list. Great way to stay organized :)
 
 [Live App](https://express-previous-todo.herokuapp.com/)
 
